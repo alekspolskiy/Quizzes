@@ -1,4 +1,4 @@
-# Quizes test work for "Фабрика решений"
+# Quizes test work
 This is simple REST API for creating quizzes with questions and give answers. Project include sign up and authentication with JWT.
 ## How to install
 Recommended to use [virtualenv/venv](https://docs.python.org/3/library/venv.html)
